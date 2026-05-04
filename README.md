@@ -74,6 +74,8 @@ Recommended guide: [https://reactnative.dev/docs/environment-setup](https://reac
 
 ---
 
+<img width="2000" height="1414" alt="BMscreenshots" src="https://github.com/user-attachments/assets/c563dc9b-0ea9-4bd6-842a-32a1ba92ec57" />
+
 ## ▶️ Running the App
 
 ### 1. Install dependencies
